@@ -20,7 +20,7 @@ python -m venv venv
 ## How to Install Requirements:
 1. Make sure your virtual environment is activated.
 2. Install the required Python packages using pip:
-pip install -r requirements.txt
+pip install streamlit pandas openpyxl
 
 ## How to Run the Code:
 1. Ensure your virtual environment is activated.
